@@ -8,7 +8,5 @@
 </head>
 <body>
 <h1>first</h1>
-<h1>second</h1>
-<h1>third</h1>
 </body>
 </html>
